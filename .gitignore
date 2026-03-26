@@ -1,0 +1,6 @@
+.venv/
+*.tar.gz
+*.egg-info/
+__pycache__/
+config/
+tmp/
